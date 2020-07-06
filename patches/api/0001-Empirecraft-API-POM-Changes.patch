@@ -26,14 +26,14 @@ index 3347be41..5d067b3e 100644
      <description>An enhanced plugin API for Minecraft servers.</description>
 +-->
 +    <parent>
-+        <groupId>com.empireminecraft</groupId>
-+        <artifactId>empirecraft-parent</artifactId>
-+        <version>dev-1.13.2-R0.1-SNAPSHOT</version>
++        <groupId>com.technical-paper</groupId>
++        <artifactId>technical-paper-parent</artifactId>
++        <version>dev-1.15.2-R0.1-SNAPSHOT</version>
 +        <relativePath>../pom.xml</relativePath>
 +    </parent>
 +
-+    <artifactId>empirecraft-api</artifactId>
-+    <version>dev-1.13.2-R0.1-SNAPSHOT</version>
++    <artifactId>technical-paper-api</artifactId>
++    <version>dev-1.15.2-R0.1-SNAPSHOT</version>
 +    <name>EmpireCraft-API</name>
  
      <properties>
